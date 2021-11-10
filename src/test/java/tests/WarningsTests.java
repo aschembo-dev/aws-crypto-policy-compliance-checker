@@ -5,7 +5,7 @@ import org.checkerframework.framework.test.CheckerFrameworkPerDirectoryTest;
 import org.junit.runners.Parameterized.Parameters;
 
 /**
- * Test runner that uses the Checker Framework's tooling.
+ * Test runner that uses the Checker Framework's tooling. Test
  */
 public class WarningsTests extends CheckerFrameworkPerDirectoryTest {
 
